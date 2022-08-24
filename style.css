@@ -1,0 +1,10 @@
+.header_div{
+    text-align: center;
+}
+body {
+    background-color: lightskyblue;
+}
+.copy_right_footer {
+    text-align: center;
+    font-family: cursive;
+}
